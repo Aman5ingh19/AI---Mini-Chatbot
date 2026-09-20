@@ -1,5 +1,6 @@
 # AI Chatbot Demo (React + Node.js + Gemini API)
 
+
 A simple, workable demo of an AI chatbot:
 - Hero section with a big chat box
 - Click it to open a chat window
